@@ -1,8 +1,8 @@
 # AI-Assisted-Rice-Freshwater-Shrimp-Automated-Hybrid-Aquaponics-System
 A smart aquaponics system optimized for Egypt's environment and rice and fish species.
 
-**1 Project Rationale
-1.1 Background**
+**1 Project Rationale**
+**1.1 Background**
 **Rice cultivation in Egypt**
 Rice is a major stable crop in Egypt and is primarily cultivated in the northern Nile Delta region. Key rice-producing governorates include Kafr El Sheikh, Beheira, Damietta, and Sharqia, where the water availability and soil conditions allow for large-scale production (SJP Tours, n.d.).
 
